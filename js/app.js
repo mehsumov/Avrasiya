@@ -25,8 +25,8 @@ $(function () {
     autoplayHoverPause: true,
     animateOut: "fadeOut",
     navText: [
-      "<img src='/img/main-left-arrow.svg'>",
-      "<img src='/img/main-right-arrow.svg'>",
+      "<img src='./img/main-left-arrow.svg'>",
+      "<img src='./img/main-right-arrow.svg'>",
     ],
     responsive: {
       0: {
